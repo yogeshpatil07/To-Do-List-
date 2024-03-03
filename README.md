@@ -1,4 +1,4 @@
-# To-Do-List-
+# To-Do-List
 Note to Users:
 
 Welcome to our To-Do List application! We want to emphasize the importance of using a to-do list as an indispensable tool for organizing your tasks efficiently. A to-do list not only helps you prioritize your tasks but also ensures that you stay focused and productive throughout your day. By jotting down your tasks and crossing them off as you complete them, you gain a sense of accomplishment and clarity in your daily activities.
